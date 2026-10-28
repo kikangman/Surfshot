@@ -5,6 +5,10 @@
 **현재 단계: 하드웨어 배선 초안 및 기술 구상. 실제 조립·동작 검증 전입니다.**  
 정리일: 2026-10-28
 
+## KiCad 편집용 회로도
+
+[KiCad 프로젝트와 연결 설명](hardware/kicad/)을 추가했습니다. `Surfshot.kicad_pro`를 열면 됩니다. KiCad 10.0.5 ERC 오류·경고 0건이며, 실제 GPIO·모터 하네스와 전원 용량 확인은 남아 있습니다.
+
 ## 모터 연결도
 
 ![ESP32와 ULN2003A 두 개를 이용한 5V·12V 모터 연결도](docs/hardware/surfshot-motor-wiring.svg)
