@@ -1,0 +1,68 @@
+Ref,Value,Footprint,DNP,Sheet
+J1,PROTECTED_CELL,,False,/55c22de5-e32d-4bb7-85ef-b30bb2f17005
+F1,6.3A provisional,,False,/55c22de5-e32d-4bb7-85ef-b30bb2f17005
+U2,TPS62162DSG,Package_SON:Texas_DSG0008A_WSON-8-1EP_2x2mm_P0.5mm_EP0.9x1.6mm_ThermalVias,False,/55c22de5-e32d-4bb7-85ef-b30bb2f17005
+L1,2.2uH / Isat>=2A,,False,/55c22de5-e32d-4bb7-85ef-b30bb2f17005
+C1,10u / 10V,Capacitor_SMD:C_0805_2012Metric,False,/55c22de5-e32d-4bb7-85ef-b30bb2f17005
+C2,22u / 10V,Capacitor_SMD:C_0805_2012Metric,False,/55c22de5-e32d-4bb7-85ef-b30bb2f17005
+U1,ESP32-WROOM-32E-N4,RF_Module:ESP32-WROOM-32E,False,/55c22de5-e32d-4bb7-85ef-b30bb2f17005
+C3,10u / 10V,Capacitor_SMD:C_0805_2012Metric,False,/55c22de5-e32d-4bb7-85ef-b30bb2f17005
+C4,100n,Capacitor_SMD:C_0603_1608Metric,False,/55c22de5-e32d-4bb7-85ef-b30bb2f17005
+U3,ULN2003A,Package_SO:SOIC-16_3.9x9.9mm_P1.27mm,False,/55c22de5-e32d-4bb7-85ef-b30bb2f17005
+J4,MOTOR_A,,False,/55c22de5-e32d-4bb7-85ef-b30bb2f17005
+R1,47k,Resistor_SMD:R_0603_1608Metric,False,/55c22de5-e32d-4bb7-85ef-b30bb2f17005
+R2,47k,Resistor_SMD:R_0603_1608Metric,False,/55c22de5-e32d-4bb7-85ef-b30bb2f17005
+R3,47k,Resistor_SMD:R_0603_1608Metric,False,/55c22de5-e32d-4bb7-85ef-b30bb2f17005
+R4,47k,Resistor_SMD:R_0603_1608Metric,False,/55c22de5-e32d-4bb7-85ef-b30bb2f17005
+C5,100n / 25V,Capacitor_SMD:C_0603_1608Metric,False,/55c22de5-e32d-4bb7-85ef-b30bb2f17005
+U4,ULN2003A,Package_SO:SOIC-16_3.9x9.9mm_P1.27mm,False,/55c22de5-e32d-4bb7-85ef-b30bb2f17005
+J5,MOTOR_B,,False,/55c22de5-e32d-4bb7-85ef-b30bb2f17005
+R5,47k,Resistor_SMD:R_0603_1608Metric,False,/55c22de5-e32d-4bb7-85ef-b30bb2f17005
+R6,47k,Resistor_SMD:R_0603_1608Metric,False,/55c22de5-e32d-4bb7-85ef-b30bb2f17005
+R7,47k,Resistor_SMD:R_0603_1608Metric,False,/55c22de5-e32d-4bb7-85ef-b30bb2f17005
+R8,47k,Resistor_SMD:R_0603_1608Metric,False,/55c22de5-e32d-4bb7-85ef-b30bb2f17005
+C6,100n / 25V,Capacitor_SMD:C_0603_1608Metric,False,/55c22de5-e32d-4bb7-85ef-b30bb2f17005
+R9,10k,Resistor_SMD:R_0603_1608Metric,False,/55c22de5-e32d-4bb7-85ef-b30bb2f17005
+C7,1u,Capacitor_SMD:C_0603_1608Metric,False,/55c22de5-e32d-4bb7-85ef-b30bb2f17005
+R10,10k,Resistor_SMD:R_0603_1608Metric,False,/55c22de5-e32d-4bb7-85ef-b30bb2f17005
+SW1,RESET,Button_Switch_SMD:SW_SPST_TL3342,False,/55c22de5-e32d-4bb7-85ef-b30bb2f17005
+SW2,BOOT,Button_Switch_SMD:SW_SPST_TL3342,False,/55c22de5-e32d-4bb7-85ef-b30bb2f17005
+R11,10k,Resistor_SMD:R_0603_1608Metric,False,/55c22de5-e32d-4bb7-85ef-b30bb2f17005
+R12,10k,Resistor_SMD:R_0603_1608Metric,False,/55c22de5-e32d-4bb7-85ef-b30bb2f17005
+R13,100k 1%,Resistor_SMD:R_0603_1608Metric,False,/55c22de5-e32d-4bb7-85ef-b30bb2f17005
+R14,100k 1%,Resistor_SMD:R_0603_1608Metric,False,/55c22de5-e32d-4bb7-85ef-b30bb2f17005
+C8,100n,Capacitor_SMD:C_0603_1608Metric,False,/55c22de5-e32d-4bb7-85ef-b30bb2f17005
+J2,UART_3V3_LEVEL,,False,/55c22de5-e32d-4bb7-85ef-b30bb2f17005
+J3,LORA_EXPANSION,,False,/55c22de5-e32d-4bb7-85ef-b30bb2f17005
+U5,TPS61089RNR,Package_DFN_QFN:Texas_VQFN-RNR0011A-11,False,/55c22de5-e32d-4bb7-85ef-b30bb2f17005/d9db8183-d1d0-45d1-bdb7-a98014ecf1cc
+L2,2.2uH / Isat>=8A,,False,/55c22de5-e32d-4bb7-85ef-b30bb2f17005/d9db8183-d1d0-45d1-bdb7-a98014ecf1cc
+C9,22u / 10V,Capacitor_SMD:C_1206_3216Metric,False,/55c22de5-e32d-4bb7-85ef-b30bb2f17005/d9db8183-d1d0-45d1-bdb7-a98014ecf1cc
+C10,100n / 16V,Capacitor_SMD:C_0603_1608Metric,False,/55c22de5-e32d-4bb7-85ef-b30bb2f17005/d9db8183-d1d0-45d1-bdb7-a98014ecf1cc
+C11,22u / 25V,Capacitor_SMD:C_1210_3225Metric,False,/55c22de5-e32d-4bb7-85ef-b30bb2f17005/d9db8183-d1d0-45d1-bdb7-a98014ecf1cc
+C12,22u / 25V,Capacitor_SMD:C_1210_3225Metric,False,/55c22de5-e32d-4bb7-85ef-b30bb2f17005/d9db8183-d1d0-45d1-bdb7-a98014ecf1cc
+C13,22u / 25V,Capacitor_SMD:C_1210_3225Metric,False,/55c22de5-e32d-4bb7-85ef-b30bb2f17005/d9db8183-d1d0-45d1-bdb7-a98014ecf1cc
+R15,312k 0.1%,Resistor_SMD:R_0603_1608Metric,False,/55c22de5-e32d-4bb7-85ef-b30bb2f17005/d9db8183-d1d0-45d1-bdb7-a98014ecf1cc
+R16,100k 0.1%,Resistor_SMD:R_0603_1608Metric,False,/55c22de5-e32d-4bb7-85ef-b30bb2f17005/d9db8183-d1d0-45d1-bdb7-a98014ecf1cc
+R17,8.66k 1%,Resistor_SMD:R_0603_1608Metric,False,/55c22de5-e32d-4bb7-85ef-b30bb2f17005/d9db8183-d1d0-45d1-bdb7-a98014ecf1cc
+C14,12n,Capacitor_SMD:C_0603_1608Metric,False,/55c22de5-e32d-4bb7-85ef-b30bb2f17005/d9db8183-d1d0-45d1-bdb7-a98014ecf1cc
+C15,22p,Capacitor_SMD:C_0603_1608Metric,False,/55c22de5-e32d-4bb7-85ef-b30bb2f17005/d9db8183-d1d0-45d1-bdb7-a98014ecf1cc
+R18,316k 1%,Resistor_SMD:R_0603_1608Metric,False,/55c22de5-e32d-4bb7-85ef-b30bb2f17005/d9db8183-d1d0-45d1-bdb7-a98014ecf1cc
+C16,100n / 16V,Capacitor_SMD:C_0603_1608Metric,False,/55c22de5-e32d-4bb7-85ef-b30bb2f17005/d9db8183-d1d0-45d1-bdb7-a98014ecf1cc
+R19,255k 1%,Resistor_SMD:R_0603_1608Metric,False,/55c22de5-e32d-4bb7-85ef-b30bb2f17005/d9db8183-d1d0-45d1-bdb7-a98014ecf1cc
+C17,2.2u / 10V,Capacitor_SMD:C_0603_1608Metric,False,/55c22de5-e32d-4bb7-85ef-b30bb2f17005/d9db8183-d1d0-45d1-bdb7-a98014ecf1cc
+U6,TPS61089RNR,Package_DFN_QFN:Texas_VQFN-RNR0011A-11,False,/55c22de5-e32d-4bb7-85ef-b30bb2f17005/d9db8183-d1d0-45d1-bdb7-a98014ecf1cc
+L3,2.2uH / Isat>=8A,,False,/55c22de5-e32d-4bb7-85ef-b30bb2f17005/d9db8183-d1d0-45d1-bdb7-a98014ecf1cc
+C18,22u / 10V,Capacitor_SMD:C_1206_3216Metric,False,/55c22de5-e32d-4bb7-85ef-b30bb2f17005/d9db8183-d1d0-45d1-bdb7-a98014ecf1cc
+C19,100n / 16V,Capacitor_SMD:C_0603_1608Metric,False,/55c22de5-e32d-4bb7-85ef-b30bb2f17005/d9db8183-d1d0-45d1-bdb7-a98014ecf1cc
+C20,22u / 25V,Capacitor_SMD:C_1210_3225Metric,False,/55c22de5-e32d-4bb7-85ef-b30bb2f17005/d9db8183-d1d0-45d1-bdb7-a98014ecf1cc
+C21,22u / 25V,Capacitor_SMD:C_1210_3225Metric,False,/55c22de5-e32d-4bb7-85ef-b30bb2f17005/d9db8183-d1d0-45d1-bdb7-a98014ecf1cc
+C22,22u / 25V,Capacitor_SMD:C_1210_3225Metric,False,/55c22de5-e32d-4bb7-85ef-b30bb2f17005/d9db8183-d1d0-45d1-bdb7-a98014ecf1cc
+R20,887k 0.1%,Resistor_SMD:R_0603_1608Metric,False,/55c22de5-e32d-4bb7-85ef-b30bb2f17005/d9db8183-d1d0-45d1-bdb7-a98014ecf1cc
+R21,100k 0.1%,Resistor_SMD:R_0603_1608Metric,False,/55c22de5-e32d-4bb7-85ef-b30bb2f17005/d9db8183-d1d0-45d1-bdb7-a98014ecf1cc
+R22,24.9k 1%,Resistor_SMD:R_0603_1608Metric,False,/55c22de5-e32d-4bb7-85ef-b30bb2f17005/d9db8183-d1d0-45d1-bdb7-a98014ecf1cc
+C23,15n,Capacitor_SMD:C_0603_1608Metric,False,/55c22de5-e32d-4bb7-85ef-b30bb2f17005/d9db8183-d1d0-45d1-bdb7-a98014ecf1cc
+C24,10p DNP,Capacitor_SMD:C_0603_1608Metric,True,/55c22de5-e32d-4bb7-85ef-b30bb2f17005/d9db8183-d1d0-45d1-bdb7-a98014ecf1cc
+R23,287k 1%,Resistor_SMD:R_0603_1608Metric,False,/55c22de5-e32d-4bb7-85ef-b30bb2f17005/d9db8183-d1d0-45d1-bdb7-a98014ecf1cc
+C25,100n / 16V,Capacitor_SMD:C_0603_1608Metric,False,/55c22de5-e32d-4bb7-85ef-b30bb2f17005/d9db8183-d1d0-45d1-bdb7-a98014ecf1cc
+R24,169k 1%,Resistor_SMD:R_0603_1608Metric,False,/55c22de5-e32d-4bb7-85ef-b30bb2f17005/d9db8183-d1d0-45d1-bdb7-a98014ecf1cc
+C26,2.2u / 10V,Capacitor_SMD:C_0603_1608Metric,False,/55c22de5-e32d-4bb7-85ef-b30bb2f17005/d9db8183-d1d0-45d1-bdb7-a98014ecf1cc
